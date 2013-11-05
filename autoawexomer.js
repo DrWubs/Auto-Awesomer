@@ -316,7 +316,7 @@ $(document).ready(function() {
           window.open('http://turntable.fm', '_current');
         });
 
-        window.bdub.botMessage = $('<div id="bot-message">Dr. Wubs\' Auto Awexomer Edit. <span style="font-style: italic;"></span> <a href="#" style="text-decoration: none; color: yellow; font-weight: bold;">Turn off</a></div>');
+        window.bdub.botMessage = $('<div id="bot-message">Dr. Wubs\' Auto Awesomer <span style="font-style: italic;"></span> <a href="#" style="text-decoration: none; color: yellow; font-weight: bold;">Turn off</a></div>');
         window.bdub.botMessage.css({
           position: 'absolute',
           color: 'white',
